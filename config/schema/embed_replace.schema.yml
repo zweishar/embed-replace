@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Embed Replace module.
+
+embed.embed_type_settings.embed_replace:
+  type: mapping
+  label: 'Schema for the Embed Replace embed type additions to an embed button entity'

@@ -1,0 +1,9 @@
+name: Inline Embed Replace
+type: module
+description: 'No more inline js. Tokens to the rescue.'
+core: 8.x
+package: Filters
+dependencies:
+  - editor
+  - embed
+  - filter

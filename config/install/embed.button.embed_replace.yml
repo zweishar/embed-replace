@@ -1,0 +1,6 @@
+label: 'Embed Replace'
+id: 'embed_replace'
+type_id: 'embed_replace'
+dependencies:
+  module:
+    - embed_replace

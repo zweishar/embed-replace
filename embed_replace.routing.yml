@@ -1,0 +1,7 @@
+embed_replace.settings:
+  path: '/admin/config/embed_replace/settings'
+  defaults:
+    _form: 'Drupal\embed_replace\Form\SettingsForm'
+    _title: 'Embed Replace'
+  requirements:
+    _permission: 'administer site configuration'

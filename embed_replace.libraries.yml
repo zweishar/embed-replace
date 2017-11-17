@@ -1,0 +1,4 @@
+embed_replace:
+  version: 1.x
+  js:
+    js/embed_replace.js: {}

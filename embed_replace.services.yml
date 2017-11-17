@@ -1,0 +1,4 @@
+services:
+  plugin.manager.embed_replace.service:
+    class: Drupal\embed_replace\ServicePluginManager
+    parent: default_plugin_manager
