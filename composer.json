@@ -1,0 +1,17 @@
+{
+  "name": "zweishar/embed-replace",
+  "type": "drupal-module",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "description": "Make javascript embeds more secure.",
+  "homepage": "https://github.com/zweishar/embed-replace",
+  "license": "proprietary",
+  "authors": [
+      {
+          "name": "Zach Weishar"
+      }
+  ],
+  "require": {
+    "drupal/embed": "^1.0"
+  }
+}
